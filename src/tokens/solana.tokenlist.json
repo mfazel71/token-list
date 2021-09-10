@@ -59,11 +59,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr",
-      "symbol": "MILLI",
-      "name": "MILLIONSY",
+      "address": "5yRupvyZBXFJ7ipbNYJ5NMesYUeSLXRXvNk9sAV1NnSQ",
+      "symbol": "JFE",
+      "name": "JAFE",
       "decimals": 9,
-      "logoURI": "https://github.com/millionsy/token-list/blob/main/assets/mainnet/HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr/logo.png",
+      "logoURI": "png",
       "tags": [
         "Solana tokenized",
         "Solana Community token"
