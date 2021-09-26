@@ -14949,6 +14949,22 @@
         "discord": "https://discord.gg/4rTM9tRV8s"
       }
     }
+        {
+      "chainId": 101,
+      "address": "4Qh5hKzEVWS7ofySUCT61jG9MevGT369wkiX39fnkKeZ",
+      "symbol": "JFE",
+      "name": "JAFE TOKEN",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/Dw8WHcxx/jafelogo128.png",
+      "tags": [
+        "JAFE-token"
+        "ARTIST-token"
+      ],
+      "extensions": {
+        "website": "https://jafe.ir",
+        "telegram": "https://t.me/jafetoken",
+      }
+    },
   ],
   "version": {
     "major": 0,
