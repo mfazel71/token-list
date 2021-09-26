@@ -14060,6 +14060,15 @@
         "discord": "https://discord.gg/TAgndUz2Fc"
       }
     }
+        {
+      "chainId": 101,
+      "address": "4Qh5hKzEVWS7ofySUCT61jG9MevGT369wkiX39fnkKeZ",
+      "symbol": "JFE",
+      "name": "JAFE",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/Dw8WHcxx/jafelogo128.png",
+      "tags": [],
+    }
   ],
   "version": {
     "major": 0,
